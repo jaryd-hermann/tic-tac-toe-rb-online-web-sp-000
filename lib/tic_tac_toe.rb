@@ -125,7 +125,7 @@ def won?(board)
       return win_combo
     end
   }
-else
+  else
   return false
 end
 
